@@ -12,3 +12,5 @@ Pods/
 
 # Ignore Carthage installed files
 Carthage/
+
+SimpleShell/SimpleShell.xcodeproj
